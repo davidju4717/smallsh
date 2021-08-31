@@ -4,7 +4,8 @@ Smallsh is a basic LINUX shell that prompts user for commands that can be run in
 
 ## Features:
 
-• Provides expansion for the variable $$. Executes 3 commands "exit", "cd", "status" via code built into
+• Provides expansion for the variable $$. </br>
+• Executes 3 commands "exit", "cd", "status" via code built into
 the shell. </br>
 • Executes other commands by creating new process and using the exec family of functions.</br>
 • supports input/output redirection.</br>
